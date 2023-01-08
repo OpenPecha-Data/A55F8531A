@@ -1,0 +1,27 @@
+segment_sources:
+  IA43FC73E:
+    type: origin_type
+    relation: translation
+    base: AADC
+    lang: en
+  I41985646:
+    type: origin_type
+    relation: translation
+    base: '2026'
+    lang: bo
+segment_pairs:
+  df7f7441d739434080a391408e414342:
+    IA43FC73E: a0ebfe41cf264a5a99c4ab285736280a
+    I41985646: 820460423c68491e8c9d4f61a5468428
+  d0685705308f4e498befc042d1399070:
+    IA43FC73E: f7e2517bc17f49d98866c12cad513d2e
+    I41985646: 9edc36ae4615413cb25622d437cc0f19
+  307f1e41bfc54115b18509132ba3721c:
+    IA43FC73E: b2c3f6d9f4d24dad96b8ac5252467864
+    I41985646: 332f9e48f888438596f37e2eef1f14de
+  f327d37d34004988a8d307221cc7157f:
+    IA43FC73E: 28cf3197c0434634b88ddffc03880d30
+    I41985646: 415caf98838c437790efd1c12de661af
+  2db1406a69454c11a57565a45863fd07:
+    IA43FC73E: 9ed123bb8aa94e52bd9fe45e0c4eaea4
+    I41985646: 04bbbf656a7141d19eee610bde514ae8
